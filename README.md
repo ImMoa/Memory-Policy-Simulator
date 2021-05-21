@@ -9,7 +9,7 @@
 
 ### Installation
 
-Download the latest build from [the releases page](https://github.com/ImMoa/Quoridor/releases), then simply extract it to your location of choice and run the program.
+Download the latest build from [the releases page](https://github.com/ImMoa/Memory-Policy-Simulator/releases), then simply extract it to your location of choice and run the program.
 
 ## Authors
 
