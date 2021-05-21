@@ -20,7 +20,7 @@ Download the latest build from [the releases page](https://github.com/ImMoa/Memo
 
 ### Support 5 CPU Scheduling Algorithm
 
-FIFO, Optimal, Least Recently Used(LRU), Least Frequently Used(LFU), Most frequently Used(MFU)
+- FIFO, Optimal, Least Recently Used(LRU), Least Frequently Used(LFU), Most frequently Used(MFU)
 
 ## License
 
